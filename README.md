@@ -7,12 +7,12 @@ SimpleXX 统一使用的一些配置文件
 要求在每个源文件开始处保留以下信息
 
 ```cpp
-
+(blank line)
 // This file is a part of Simple-XX/SimpleExample
 // (https://github.com/Simple-XX/SimpleExample).
 //
 // example.cpp for Simple-XX/SimpleExample.
-
+(blank line)
 ```
 
 - C/C++
